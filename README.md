@@ -17,7 +17,6 @@ The objective of this task was to perform a deep-dive business analysis and buil
 - Total Sales
 - Total Orders
 - Average Shipping Days
-- Average Order Value
 
 ## Dashboard Features
 
